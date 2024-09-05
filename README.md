@@ -28,16 +28,18 @@ Chapter    | Title                         | Status
 -----------|-------------------------------|---------------
 Chapter 12 | A Ship That Fires Bullets     | ❌ Not Started 
 Chapter 13 | Aliens!                       | ❌ Not Started 
-Chapter 14 | A Ship That Fires Bullets     | ❌ Not Started 
-
+Chapter 14 | A Ship That Fires Bullets     | ❌ Not Started
+```
+```
 Project 2 - Data Visualization
 
 Chapter    | Title                         | Status        
 -----------|-------------------------------|---------------
 Chapter 15 | Generating Data               | ❌ Not Started 
 Chapter 16 | Downloading Data              | ❌ Not Started 
-Chapter 17 | Working with APIs             | ❌ Not Started 
-
+Chapter 17 | Working with APIs             | ❌ Not Started
+```
+```
 Project 3 - Web Applications
 
 Chapter    | Title                         | Status        
